@@ -1,0 +1,22 @@
+name: Experiments_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - flask
+  - flask_cors
+  - numpy
+  - xgboost
+  - pgeocode
+  - transformers
+  - nltk
+  - pandas
+  - tqdm
+  - bs4
+  - pytorch
+  - gensim
+  - matplotlib
+  - seaborn
+  - catboost
+ 
